@@ -28,22 +28,9 @@ I'm a passionate Full Stack Developer currently pursuing B.Tech in Computer Scie
 
 Real-time chat application with modern user interface and messaging functionality.
 
-🧠 AI Driven MCQ Quiz Generator
-
-AI-powered platform to generate MCQ questions with quiz functionality.
-
-🏥 MedScan – AI Medical Report Analyzer
-
-AI-based medical report analysis application using MERN stack.
-
 💰 Expense Tracker Dashboard
 
 A web application to manage and track daily expenses.
-
-🏆 Quiz Leaderboard
-
-An interactive quiz application with score tracking and leaderboard functionali
-
 ---
 
 🔥 GitHub Contribution Streak
